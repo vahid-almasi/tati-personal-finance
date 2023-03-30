@@ -1,4 +1,4 @@
-class TransactionsController < ApplicationController
+class Api::Beta::TransactionsController < ApplicationController
   before_action :set_transaction, only: %i[ show update destroy ]
 
   # GET /transactions

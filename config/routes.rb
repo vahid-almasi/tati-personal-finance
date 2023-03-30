@@ -1,8 +1,8 @@
 Rails.application.routes.draw do
-  resources :transactions
-  resources :categories
-  # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
-
-  # Defines the root path route ("/")
-  # root "articles#index"
+  namespace :api do
+    namespace :beta do
+      resources :transactions
+      resources :categories
+    end
+  end
 end

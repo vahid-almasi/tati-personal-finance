@@ -1,24 +1,23 @@
-# README
+# Tati personal finance :)
+my goal is to make a tool to make finance life easy specially for people who live in germany :)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+but for now i'm gonna use this readme file as a check list of the project 
+### Things that i want to cover:
 
-Things you may want to cover:
+* Main functionality should work such as:
+  * CRUD for transaction with category
+  * monthly/yearly Planning
+  * show some basic statistics
+  * easy to use UI
+* batch update
+* Import your transactions csv from banks
+* Authentication
+* Auditing log
+* add bank accounts
+* statistics
 
-* Ruby version
+And this is some idea about the future of this project 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* upload picture for adding a transaction(in future it can be done with a mobile app)
+* mobile app
+* AI finance assistant
