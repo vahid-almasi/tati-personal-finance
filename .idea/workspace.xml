@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aadc3c07-8a2d-4453-808c-b4a3803d8aeb" name="Changes" comment="Update Transaction and add foreign key">
-      <change beforePath="$PROJECT_DIR$/.idea/tati-personal-finance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tati-personal-finance.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/categories_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/api/beta/categories_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/transactions_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/api/beta/transactions_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/cors.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/cors.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +52,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/controllers/api/beta" />
+    </key>
+  </component>
   <component name="RunManager" selected="Rails.tati-personal-finance">
     <configuration name="tati-personal-finance" type="RailsRunConfigurationType" factoryName="Rails">
       <module name="tati-personal-finance" />
@@ -318,7 +315,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680095671589</updated>
-      <workItem from="1680095673016" duration="12910000" />
+      <workItem from="1680095673016" duration="14323000" />
     </task>
     <task id="LOCAL-00001" summary="Add transaction and category CRUD">
       <created>1680101355180</created>
@@ -354,7 +351,7 @@
     <SUITE FILE_PATH="coverage/tati_personal_finance@All_tests_in_test__tati_personal_finance.rcov" NAME="All tests in test: tati-personal-finance Coverage Results" MODIFIED="1680206047628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="tati-personal-finance" />
     <SUITE FILE_PATH="coverage/tati_personal_finance@TransactionsControllerTest.rcov" NAME="TransactionsControllerTest Coverage Results" MODIFIED="1680205941712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="tati-personal-finance" />
     <SUITE FILE_PATH="coverage/tati_personal_finance@test_should_get_index.rcov" NAME="test_should_get_index Coverage Results" MODIFIED="1680206031776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="tati-personal-finance" />
-    <SUITE FILE_PATH="coverage/tati_personal_finance@tati_personal_finance.rcov" NAME="tati-personal-finance Coverage Results" MODIFIED="1680213530180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="tati-personal-finance" />
+    <SUITE FILE_PATH="coverage/tati_personal_finance@tati_personal_finance.rcov" NAME="tati-personal-finance Coverage Results" MODIFIED="1680267168034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="tati-personal-finance" />
     <SUITE FILE_PATH="coverage/tati_personal_finance@test__tati_personal_finance.rcov" NAME="test: tati-personal-finance Coverage Results" MODIFIED="1680202318322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="tati-personal-finance" />
     <SUITE FILE_PATH="coverage/tati_personal_finance@CategoriesControllerTest.rcov" NAME="CategoriesControllerTest Coverage Results" MODIFIED="1680205948403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="tati-personal-finance" />
   </component>
