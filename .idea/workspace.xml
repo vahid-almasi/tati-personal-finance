@@ -6,6 +6,26 @@
   <component name="ChangeListManager">
     <list default="true" id="aadc3c07-8a2d-4453-808c-b4a3803d8aeb" name="Changes" comment="Update Transaction and add foreign key">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/api/beta/categories_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/api/beta/categories_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/api/beta/transactions_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/api/beta/transactions_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tati-react/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,28 +50,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/vahid/Projects/tati-personal-finance",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ruby.rails.projectView.checked": "true",
-    "ruby.structure.view.model.defaults.configured": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vahid/Projects/tati-personal-finance&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/controllers/api/beta" />
