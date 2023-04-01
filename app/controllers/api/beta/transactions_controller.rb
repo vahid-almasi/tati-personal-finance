@@ -1,5 +1,7 @@
 class Api::Beta::TransactionsController < ApplicationController
   before_action :set_transaction, only: %i[ show update destroy ]
+  skip_after_action :verify_authenticity_token
+
 
   # GET /transactions
   def index
@@ -46,6 +48,6 @@ class Api::Beta::TransactionsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def transaction_params
-      params.require(:transaction).permit(:title, :description, :amount, :currency, :category_id)
+      params.require(:transaction).permit(:id, :title, :description, :amount, :currency, :category_id)
     end
 end
