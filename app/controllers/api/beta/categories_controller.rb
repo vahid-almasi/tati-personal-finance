@@ -1,6 +1,5 @@
 class Api::Beta::CategoriesController < ApplicationController
   before_action :set_category, only: %i[ show update destroy ]
-    skip_after_action :verify_authenticity_token
 
   # GET /categories
   def index

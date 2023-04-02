@@ -1,6 +1,5 @@
 class Api::Beta::TransactionsController < ApplicationController
   before_action :set_transaction, only: %i[ show update destroy ]
-  skip_after_action :verify_authenticity_token
 
 
   # GET /transactions
